@@ -310,7 +310,7 @@
   - Cost typically well below $1.
   - Small as 0.4 mm square and thinner than a sheet of paper.
 - **Active RFID:** is best suited where business processes are **dynamic or unconstrained, movement of tagged assets** is variable, and **more sophisticated security, sensing, and/or data storage capabilities** are required.
-  - Generally, cost from $10 to $50, depending on the amount of memory, the battery life required, any on-board sensors, and the ruggedness.
+  - Generally, cost from 10 to 50, depending on the amount of memory, the battery life required, any on-board sensors, and the ruggedness.
   - Small as a coin, which means that they are around 50 times the size of passive ones.
 - ![image-20250302175609609](image_25.png)
 

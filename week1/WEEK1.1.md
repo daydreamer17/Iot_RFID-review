@@ -96,8 +96,7 @@
 
 - **Retina recognition technology:** distinguish each person by analyzing the vascular pattern on the retina.
 - **Heartbeat recognition technology:** identify the user identity by collecting heartbeat signal pulse through a specific
-  instrument and then identify the inherent characteristics of
-  each person heartbeat.
+  instrument and then identify the inherent characteristics of each person heartbeat.
 
 ## 五.Bar Codes
 
@@ -152,6 +151,9 @@
 
 - **1940s:** RFID technology has roots in radar systems developed during WWII.
 - **1948:** The concept of passive radio-frequency identification is introduced by **Harry Stockman**, who wrote about the potential for using radio waves to transmit information for identification purposes.
+- RFID wasn’t officially patented until **1973**, in a landmark claim by **Mario W. Cardullo**, who created an active RFID tagging system that utilized rewritable memory.
+- In **1999**, the Auto-ID center was founded by **MIT scientists** to standardize the RFID-encoded information format.
+- In **2003**, **EPCGlobal** systems came to being and they started standardizing RFID from all possible directions.
 
 #### **2.Development Milestones:**
 
@@ -160,8 +162,7 @@
   identification.
 - **1990s:** Introduction of EPC (Electronic Product Code) and the formalization of
   RFID standards.
-- **2000s:** Widespread adoption of RFID in supply chain management, retail, and
-  healthcare.
+- **2000s:** Widespread adoption of RFID in supply chain management, retail, and healthcare.
 
 #### **3.Modern-Day RFID:**
 
@@ -198,11 +199,11 @@
 ##### ***Simple logical processing:***
 
 - RFID has a very limited number of internal logic gates, so only a simple logical processing can be made.
-- But the RFID system can use the basic logic processing ability of tags to achieve some effective protocols and algorithms to improve the system operating efficiency and security performance.
+- But the RFID system can **use the basic logic processing ability of tags to achieve some effective protocols and algorithms to improve the system operating efficiency and security performance**.
 
 ##### ***Reflection signal strength is affected by the distance and other factors significantly***
 
-- Since the RFID tag itself is a passive device, the feedback signal must be modulated by backscatter. Therefore, the strength of the RFID tag reflection signal is susceptible to the surrounding environment, including distance, reader power, signal interference,and tag deployment density
+- Since the RFID tag itself is **a passive device**, the feedback signal **must be modulated by backscatter**. Therefore, the strength of the RFID tag reflection signal is susceptible to the surrounding environment, **including distance, reader power, signal interference,and tag deployment density**
 
 ##### ***Low cost, can be deployed at a large scale:***
 
